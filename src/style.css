@@ -30,10 +30,10 @@ body {
 }
 
 .nav-items {
+  margin: 0;
   display: flex;
   justify-content: space-between;
   list-style-type: none;
-  margin: 0;
 }
 
 .nav-item {
